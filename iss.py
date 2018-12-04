@@ -77,7 +77,6 @@ def print_astronauts(num, people):
 
 
 def main():
-
     urls = {'astro': 'http://api.open-notify.org/astros.json',
             'iss': 'http://api.open-notify.org/iss-now.json',
             }
